@@ -1,5 +1,15 @@
 [
   {
+    "id": 1480,
+    "title": "Running Sum of 1d Array",
+    "title_slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1920,
     "title": "Build Array from Permutation",
     "title_slug": "build-array-from-permutation",
