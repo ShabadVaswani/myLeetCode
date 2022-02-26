@@ -10,6 +10,15 @@
     ]
   },
   {
+    "id": 237,
+    "title": "Delete Node in a Linked List",
+    "title_slug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
