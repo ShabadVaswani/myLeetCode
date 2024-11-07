@@ -49,6 +49,17 @@
     ]
   },
   {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 234,
     "title": "Palindrome Linked List",
     "title_slug": "palindrome-linked-list",

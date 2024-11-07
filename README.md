@@ -11,6 +11,7 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | `Array` `Greedy` `Two Pointers` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | `Array` `Hash Table` `Matrix` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium | `Linked List` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
