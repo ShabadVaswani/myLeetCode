@@ -60,6 +60,17 @@
     ]
   },
   {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 347,
     "title": "Top K Frequent Elements",
     "title_slug": "top-k-frequent-elements",
