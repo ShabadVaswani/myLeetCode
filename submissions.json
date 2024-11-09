@@ -60,6 +60,19 @@
     ]
   },
   {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "title_slug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Monotonic Stack",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 234,
     "title": "Palindrome Linked List",
     "title_slug": "palindrome-linked-list",
