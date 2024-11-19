@@ -15,6 +15,7 @@
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | `Array` `Hash Table` `Matrix` |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | `Array` `Dynamic Programming` `Monotonic Stack` `Stack` `Two Pointers` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium | `Linked List` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
