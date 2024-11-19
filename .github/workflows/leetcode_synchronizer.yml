@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run LeetCode Synchronizer
-        uses: ShabadVaswani/LeetCode-Synchronizer@v1.1.4
+        uses: ShabadVaswani/LeetCode-Synchronizer@v1.1.4d
         with:
           GITHUB_TOKEN: ${{ github.token }}
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
