@@ -152,6 +152,16 @@
     ]
   },
   {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "title_slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",

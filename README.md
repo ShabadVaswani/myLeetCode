@@ -20,5 +20,6 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | `Array` `Simulation` |
